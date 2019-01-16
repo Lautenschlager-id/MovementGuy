@@ -1,0 +1,11 @@
+*.vs
+*.sln
+MovementGuy/MovementGuy/obj/
+MovementGuy/MovementGuy/bin/
+MovementGuy/MovementGuyContent/obj/
+MovementGuy/MovementGuyContent/bin/
+*.contentproj
+Properties/
+*.csproj
+*.cachefile
+*.user
